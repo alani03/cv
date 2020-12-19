@@ -1,0 +1,6 @@
+
+.icon-quote:before { content: '\275e'; } /* '❞' */
+.icon-star-filled:before { content: '\e0f1'; } /* '' */
+.icon-chat:before { content: '\f03d'; } /* '' */
+.icon-facebook-rect:before { content: '\f301'; } /* '' */
+.icon-twitter-squared:before { content: '\f304'; } /* '' */
